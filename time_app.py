@@ -9,4 +9,4 @@ now_method = datetime.now()
 # create a string representing
 # the current time.
 currentTime = now_method.strftime("%H:%M:%S")
-print("Current Time =", currentTime)
+print("Current Military Time =", currentTime)
